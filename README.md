@@ -1,7 +1,7 @@
-- 👋 Hi, I’m oladigbo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Ajibola,
+- 👀 I’m interested in Robotics,
+- 🌱 I’m currently learning Coding,
+- 💞️ I’m looking to collaborate with all of you,
 - 📫 How to reach me +1 343 988 7645
 
 <!---
